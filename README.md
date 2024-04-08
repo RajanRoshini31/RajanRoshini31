@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
-- 💬 Ask me about **C language,CAD,CSS,HTML,PYTHON.**
+- 💬 Ask me about **C,Java,CSS,HTML,PYTHON.**
 
 - 📫 How to reach me **rajenroshini04@gmail.com**
 
