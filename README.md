@@ -1,6 +1,7 @@
 <h3 align="center">A passionate AI enthusiast from India</h3>
 
-- 🔭 I’m currently working on [visiting card detection](https://colab.research.google.com/drive/11Kwv5v-jx9up7S1VpNKGLHUaVVVL4bSx?usp=drive_link)
+- 🔭 I’m currently working on Finacial Advisor Application
+
 
 - 🌱 I’m currently learning **SQL,Machine learning algorithms.**
 
@@ -8,7 +9,7 @@
 
 - 💬 Ask me about **C,Java,CSS,HTML,PYTHON.**
 
-- 📫 How to reach me **rajenroshini04@gmail.com**
+- 📫 How to reach me **roshiniprojects31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
