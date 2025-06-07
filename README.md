@@ -1,13 +1,13 @@
 <h3 align="center">A passionate AI enthusiast from India</h3>
 
-- 🔭 I’m currently working on Finacial Advisor Application
+- 🔭 I’m currently working on Drug Discovery Project
 
 
-- 🌱 I’m currently learning **SQL,Machine learning algorithms.**
+- 🌱 I’m currently learning **Power BI MASTER and Apache Kafka**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Machine learning projects and Real world Problems**
 
-- 💬 Ask me about **C,Java,CSS,HTML,PYTHON.**
+- 💬 Ask me about ** Python,ML,SQL,DSA **
 
 - 📫 How to reach me **roshiniprojects31@gmail.com**
 
