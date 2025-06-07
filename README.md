@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine learning projects and Real world Problems**
 
-- 💬 Ask me about ** Python,ML,SQL,DSA **
+- 💬 Ask me about  **Python,ML,SQL,DSA** 
 
 - 📫 How to reach me **roshiniprojects31@gmail.com**
 
