@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Drug Discovery Project
 
 
-- 🌱 I’m currently learning **Power BI MASTER and Apache Kafka**
+- 🌱 I’m currently learning **Power BI and Apache Kafka**
 
 - 👯 I’m looking to collaborate on **Machine learning projects and Real world Problems**
 
