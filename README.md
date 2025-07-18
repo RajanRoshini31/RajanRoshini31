@@ -1,6 +1,6 @@
 <h3 align="center">A passionate AI enthusiast from India</h3>
 
-- 🔭 I’m currently working on Drug Discovery Project
+- 🔭 I’m currently working Early Dementia Detection Using Game Techniques project
 
 
 - 🌱 I’m currently learning **Power BI and Apache Kafka**
